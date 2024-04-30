@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LunaLeao
 - 👀 I’m interested in web design and web development
-- 🌱 I am currently taking a higher education course in Multiplatform Software Development at a public college
+- 🌱 I am currently taking a higher education course in Multiplatform Software Development at a public university
 
 
 <!---
