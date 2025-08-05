@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LunaLeao
-- 👀 I’m interested in web design and web development
-- 🌱 I am currently taking a higher education course in Multiplatform Software Development at a public university
+- Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste;
+- Preferência por Front End, especialmente na área do Design;
+- Habilidades em Java, JavaScript, React, Node.JS, MongoDB, Figma, linguagem Web.
 
 
 <!---
