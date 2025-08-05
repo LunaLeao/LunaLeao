@@ -1,4 +1,4 @@
-- Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste;
+- Cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste (4º semestre);
 - Preferência por Front End, especialmente na área do Design;
 - Habilidades em Java, JavaScript, React, Node.JS, MongoDB, Figma, linguagem Web.
 
